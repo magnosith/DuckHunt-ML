@@ -1,4 +1,4 @@
-# Duck Hunt JS — AI Edition 🦆🎯
+# Duck Hunt ML — AI Edition 🦆🎯
 
 A browser duck-hunting game where **the player is an AI**. Instead of a human aiming with the mouse, a
 **YOLOv5n object-detection model running on TensorFlow.js** watches the game screen in real time, finds the
